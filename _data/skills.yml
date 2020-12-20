@@ -1,0 +1,9 @@
+# Skills
+- skill: Coding
+  description: Javascript, Typescript, Java, Go, PHP, C#
+
+- skill: Framework
+  description: Nestjs, React, Vue, spring-boot, gin-gonic
+
+- skill: DevOps
+  description: Amazon Web Services such as EC2, ECS, S3, Cloundfront, Pipeline and etc.
