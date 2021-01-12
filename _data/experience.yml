@@ -6,12 +6,12 @@
 
 - company: Advanced Info Services Public Company Limited(AIS)
   position: Software developer
-  duration:  2017 &mdash; 2019
+  duration: 2018 &mdash; 2019
   summary: <ul class="resume-item-list"><li>Creating  the web-based workflow management system with Angular and nestjs(typescript)</li><li>Optimising the workflow management system(old) with Java</li><li>Developing token inventory with Angular and nodejs</li></ul>
 
 - company: Choaphraya Abhaibhubejhr Hospital
   position: Software developer
-  duration: 2016 &mdash; 2017
+  duration: 2016 &mdash; 2018
   summary: <ul class="resume-item-list"><li>Develop hospital information system (his) with java</li><li>Develop hospital website with php</li><li>Develop other application with javascript, java, php (web based)</li><li>Server administration and user contact for keep requirement</li></ul>
 
 - company: Creative innovation Technology Co.,Ltd.
