@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Prakhan Jansawang"
-resume_title:                   "Software Developer"
+resume_title:                   "Full Stack Developer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "prakhan.jsw@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_telephone:       "0945615051"
 # resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am software developer for 1Moby Co., Ltd. I have passion for software technology.</p>"
+resume_header_intro: "<p>I am full stack developer for True e-Logistics Co., Ltd. I have passion for software technology.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
