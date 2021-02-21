@@ -1,7 +1,12 @@
 # Jobs
+- company: True e-Logistics Co., Ltd.
+  position: Full Stack Developer
+  duration: February 2021 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Designing and developing server application and database in high-traffic environment.</li><li>Communicate with a mobile developers, designers, product owner, and other personnel to ship new features.</li><li>Maintain project, drafts, files, codes and scripts in an organized manner that allows other team members to make edits/suggestions/changes.</li></ul>
+
 - company: 1Moby Co., Ltd.
   position: Software developer
-  duration: 2019 &mdash; Present
+  duration: 2019 &mdash; February 2021
   summary: <ul class="resume-item-list"><li>Creating the web-base CMS for LINE Official account with Reactjs(typescript) and nestjs</li><li>Use jest for unit test</li><li>Use <b>LINE Messaging API</b>, <b>LINE LIFF</b></li><li>Setup infrastructure on AWS such as container with ECS cluster, static web with S3 and Cloudfront</li></ul>
 
 - company: Advanced Info Services Public Company Limited(AIS)
