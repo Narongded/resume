@@ -1,15 +1,20 @@
 # Jobs
+- company: 1Moby Co., Ltd.
+  position: Senior software developer
+  duration: November 2021 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Maintain and implement omni chat system <a href="https://www.1moby.com/our-technology/mbox/" target="_blank">MBox</a></li><li>Implement API support Facebook, Instagram and Line webhook with Nestjs</li><li>Implement web frontend with nextjs</li><li>Designing database and implement new feature</li><li>Setup infrastructure on AWS such as container with ECS cluster, API with lambda, static web with S3 and Cloudfront</li></ul>
+
 - company: True e-Logistics Co., Ltd.
   position: Full Stack Developer
-  duration: February 2021 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Designing and developing server application and database in high-traffic environment.</li><li>Communicate with a mobile developers, designers, product owner, and other personnel to ship new features.</li><li>Maintain project, drafts, files, codes and scripts in an organized manner that allows other team members to make edits/suggestions/changes.</li></ul>
+  duration: February 2021 &mdash; November 2021
+  summary: <ul class="resume-item-list"><li>Maintain project, drafts, files, codes and scripts in an organized manner that allows other team members to make edits/suggestions/changes.</li><li>Communicate with a mobile developers, designers, product owner, and other personnel to ship new features.</li></ul>
 
 - company: 1Moby Co., Ltd.
   position: Software developer
   duration: 2019 &mdash; February 2021
   summary: <ul class="resume-item-list"><li>Creating the web-base CMS for LINE Official account with Reactjs(typescript) and nestjs</li><li>Use jest for unit test</li><li>Use <b>LINE Messaging API</b>, <b>LINE LIFF</b></li><li>Setup infrastructure on AWS such as container with ECS cluster, static web with S3 and Cloudfront</li></ul>
 
-- company: Advanced Info Services Public Company Limited(AIS)
+- company: Cube SoftTech Co., Ltd.
   position: Software developer
   duration: 2018 &mdash; 2019
   summary: <ul class="resume-item-list"><li>Creating  the web-based workflow management system with Angular and nestjs(typescript)</li><li>Optimising the workflow management system(old) with Java</li><li>Developing token inventory with Angular and nodejs</li></ul>
