@@ -2,7 +2,7 @@
 - company: 1Moby Co., Ltd.
   position: Senior software developer
   duration: November 2021 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Maintain and implement omni chat system <a href="https://www.1moby.com/our-technology/mbox/" target="_blank">MBox</a></li><li>Implement API support Facebook, Instagram and Line webhook with Nestjs</li><li>Implement web frontend with nextjs</li><li>Designing database and implement new feature</li><li>Setup infrastructure on AWS such as container with ECS cluster, API with lambda, static web with S3 and Cloudfront</li></ul>
+  summary: <p>(Present)<p/> <ul class="resume-item-list"> <li>I am collaborating with a team to design a system for comparing product prices between stores. This involves creating a high-level architecture, designing the database, and implementing the solution using Next.js and Nest.js.</li> </ul> <p>(Nov 2021 - May 2023)</p> <ul class="resume-item-list"> <li> Maintain and implement omni chat system <a href="https://www.1moby.com/our-technology/mbox/" target="_blank" >MBox</a > </li> <li> Implement API support Facebook, Instagram and Line webhook with Nestjs </li> <li>Implement web frontend with nextjs</li> <li>Designing database and implement new feature</li> <li> Setup infrastructure on AWS such as container with ECS cluster, API with lambda, static web with S3 and Cloudfront </li> </ul>
 
 - company: True e-Logistics Co., Ltd.
   position: Full Stack Developer
