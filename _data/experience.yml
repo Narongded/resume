@@ -1,10 +1,80 @@
 # Jobs
 - company: 1Moby Co., Ltd.
-  position: Senior software developer
+  position: Software Engineer
   duration: November 2021 &mdash; Present
-  summary: <p>(Present)<p/> <ul class="resume-item-list"> <li>I am collaborating with a team to design a system for comparing product prices between stores. This involves creating a high-level architecture, designing the database, and implementing the solution using Next.js and Nest.js.</li> </ul> <p>(Nov 2021 - May 2023)</p> <ul class="resume-item-list"> <li> Maintain and implement omni chat system <a href="https://www.1moby.com/our-technology/mbox/" target="_blank" >MBox</a > </li> <li> Implement API support Facebook, Instagram and Line webhook with Nestjs </li> <li>Implement web frontend with nextjs</li> <li>Designing database and implement new feature</li> <li> Setup infrastructure on AWS such as container with ECS cluster, API with lambda, static web with S3 and Cloudfront </li> </ul>
+  summary:
+    <p>(Present)<p/>
+    <p>
+    responsible for the development and creation of the MBOX platform, which integrated
+    various chat platforms such as Facebook, Line, and Instagram, along with features for
+    employee performance management., I utilize a range of tools including AWS, Node.js,
+    Redis, MySQL<p/>
+    <ul class="resume-item-list">
+    <li>
+    Front-end Development ( Next.js )
+    <ul class="resume-item-list">
+    <li>
+    Refactor code and improve the efficiency code.
+    </li>
+    <li>
+    Developing specific web pages as required.
+    </li>
+    </ul>
+    </li>
+    <li>
+    Back-end Development ( Nest.js )
+    <ul class="resume-item-list">
+    <li>
+    Building APIs for CRUD operations
+    </li>
+    <li>
+    Collaborating with the team to design the MySQL database and optimizing queries
+    for enhanced data retrieval performance.
+    </li>
+    <li>
+    Implementing worker features, task assignment, and management using Nest.js's
+    Bull Queue and storing queue data in Redis.
+    </li>
+    </ul>
+    </li>
+    <li>
+    AWS Management
+    <ul class="resume-item-list">
+    <li>
+    Taking responsibility for identifying and resolving system issues within the AWS
+    infrastructure.
+    </li>
+    <li>
+    Utilizing various AWS services such as CloudWatch, Elastic Cache, RDS, and
+    DynamoDB.
+    </li>
+    <li>
+    Analyzing cost breakdowns using AWS Cost Explorer to identify cost drivers and
+    providing reports to management.
+    </li>
+    </ul>
+    </li>
+    </ul>
+    # <p>(Nov 2021 - May 2023)</p>
 
 - company: EMETWORKS co. ltd
   position: Back End Developer
   duration: June 2020 &mdash; August 2020
-  summary: <ul class="resume-item-list"><li>Maintain project, drafts, files, codes and scripts in an organized manner that allows other team members to make edits/suggestions/changes.</li><li>Communicate with a mobile developers, designers, product owner, and other personnel to ship new features.</li></ul>
+  summary:
+    <p>
+    internship position As part of the development of the EX10 platform, it is a platform that
+    allows LINE developers to easily start developing LINE APIs. The main features are as
+    follows
+    <p/>
+    <ul class="resume-item-list">
+    <li>
+    Chat Tools You can use LINE Bot with Admin Chat.
+    </li>
+    <li>
+    Extensions Messaging API.
+    </li>
+    </ul>
+    <p>
+    The tools I use are React.js Node.js .Net Angular.js Agile
+    <p/>
+    # <p>(Nov 2021 - May 2023)</p>
