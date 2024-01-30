@@ -1,5 +1,5 @@
 # Site settings
-title: "Prakhan Jansawang Resume"
+title: "Narongded Pinprechachai Resume"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -14,16 +14,16 @@ resume_name:                    "Narongded Pinprechachai"
 resume_title:                   "Full Stack Developer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "prakhan.jsw@gmail.com"
+resume_contact_email:           "work.narongded@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "0945615051"
+resume_contact_telephone:       "0817151382"
 # resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
 # resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a full-stack developer at 1Moby Co., Ltd., where my passion for software technology comes to life. With hands-on experience, I take joy in crafting complete solutions. I stay tuned to the latest tech trends, always eager to apply my skills in creating innovative and effective software solutions for diverse challenges.</p>"
+resume_header_intro: "<p>I am working as a software engineer on developing web applications using Nestjs,Nextjs.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,14 +45,14 @@ resume_section_associations:    false
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/pkhn12"
+  resume_github_url:            "https://github.com/Narongded"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/prakhan"
+  resume_linkedin_url:          "https://www.linkedin.com/in/narongded-pinprechachai/"
   # resume_instagram_url:         "insert your Instagram URL here"
   # resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@pkhn12"
+  resume_medium_url:            "https://medium.com/@narongded2554"
 resume_print_social_links:      true
 
 # Design settings
