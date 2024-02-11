@@ -1,9 +1,65 @@
 # Jobs
+
 - company: 1Moby Co., Ltd.
-  position: Software Engineer
-  duration: November 2021 &mdash; Present
+  position: Software Engineer (Team Software)
+  duration: July 2023 &mdash; Present
   summary:
     <p>(Present)<p/>
+    <p>
+    responsible for developing software projects assigned by the project manager (PM), which involves 
+    task allocation with senior team members for mandays estimation. 
+    Additionally, I collaborate closely with the testing and design (UX/UI) teams throughout 
+    the project lifecycle."<p/>
+    <ul class="resume-item-list">
+    <li>
+    Front-end Development ( Next.js )
+    <ul class="resume-item-list">
+    <li>
+    Integrating a web application with an API.
+    </li>
+    <li>
+    Developing specific web pages as required.
+    </li>
+    </ul>
+    </li>
+    <li>
+    Back-end Development ( Nest.js )
+    <ul class="resume-item-list">
+    <li>
+    Building APIs for CRUD operations
+    </li>
+    <li>
+    Collaborating with the team to design the MySQL database
+    </li>
+    <li>
+    Use LINE Messaging API for send message to client
+    </li>
+    </ul>
+    </li>
+    # <li>
+    # AWS Management
+    # <ul class="resume-item-list">
+    # <li>
+    # Taking responsibility for identifying and resolving system issues within the AWS
+    # infrastructure.
+    # </li>
+    # <li>
+    # Utilizing various AWS services such as CloudWatch, Elastic Cache, RDS, and
+    # DynamoDB.
+    # </li>
+    # <li>
+    # Analyzing cost breakdowns using AWS Cost Explorer to identify cost drivers and
+    # providing reports to management.
+    # </li>
+    # </ul>
+    # </li>
+    </ul>
+
+
+- company: 1Moby Co., Ltd.
+  position: Software Engineer (Team Product)
+  duration: November 2021 &mdash; June 2023
+  summary:
     <p>
     responsible for the development and creation of the MBOX platform, which integrated
     various chat platforms such as Facebook, Line, and Instagram, along with features for
