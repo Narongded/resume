@@ -1,8 +1,37 @@
 # Jobs
-- company: xxxx
+- company: 1Moby Co., Ltd.
   position: Software Engineer (Team Software)
   duration: July 2023 &mdash; Present
-  
+  summary:
+    <p>(Present)<p/>
+    <ul class="resume-item-list">
+      <li>
+      Front-end Development ( Next.js )
+        <ul class="resume-item-list">
+          <li>
+            Integrating a web application with an API.
+          </li>
+          <li>
+            Developing specific web pages as required.
+          </li>
+        </ul>
+      </li>
+      <li>
+      Back-end Development ( Nest.js )
+        <ul class="resume-item-list">
+          <li>
+            Building APIs for CRUD operations
+          </li>
+          <li>
+            Collaborating with the team to design the MySQL database
+          </li>
+          <li>
+            Use LINE Messaging API for send message to client
+          </li>
+        </ul>
+      </li>
+    </ul>
+
 - company: 1Moby Co., Ltd.
   position: Software Engineer (Team Product)
   duration: November 2021 &mdash; June 2023
