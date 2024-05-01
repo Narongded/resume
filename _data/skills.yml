@@ -1,9 +1,9 @@
 # Skills
-- skill: Coding
-  description: Javascript, Typescript
+- skill: 
+  description: Mysql, TypeOrm, Redis, DynamoDB, MinIO, Nestjs, Nextjs, AntD, Docker, AWS
 
-- skill: Framework
-  description: Nestjs, Nextjs
+# - skill: Framework
+#   description: Nestjs, Nextjs
 
-- skill: Infrastructure
-  description: Basic AWS CloudWatch, RDS, Cost Explorer
+# - skill: Infrastructure
+#   description: Basic AWS CloudWatch, RDS, Cost Explorer
