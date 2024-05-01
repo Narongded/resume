@@ -130,6 +130,18 @@
           <p class="resume-item-copy">{{ skill.description }}</p>
         </div>
         {% endfor %}
+        <a href="https://narongded.github.io/my-Portfolio/">
+          Example My Portfolio
+        </a>
+        <div id="qrcode"></div>
+
+        <script>
+            // ลิงก์ของเว็บไซต์
+            var url = "https://narongded.github.io/my-Portfolio/";
+    
+            // สร้าง QR code ด้วย qrcode.js
+            new QRCode(document.getElementById("qrcode"), url);
+        </script>
 
       </section>
       <!-- end Skills -->
